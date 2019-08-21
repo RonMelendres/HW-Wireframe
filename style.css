@@ -1,13 +1,32 @@
 body{
-
+    background-color: gray;
 }
 
 header{
-    color: gray
+    text-align: center; 
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray; 
+    background-color: lightgrey;
+    margin: 10px 150px;
+    border: 1px lightgrey;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    
 }
 
 nav{
-    color: gray
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    background-color: lightgray;
+    margin: 10px 150px;
+    border: 1px lightgrey;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
 }
 
 section {
@@ -15,4 +34,36 @@ section {
 }
 article {
     color: gray
+}
+
+p{
+    color: gray
+}
+
+aside{
+    float: right; 
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    background-color: lightgray;
+    margin: 10px 150px;
+    border: 1px lightgrey;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+      
+}
+
+footer {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: gray;
+    background-color: lightgray;
+    margin: 250px 150px 250px 150px;
+    border: 1px lightgrey;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
 }
