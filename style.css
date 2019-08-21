@@ -36,7 +36,7 @@ section {
     font-family: Arial, Helvetica, sans-serif;
     color: gray;
     background-color: lightgray;
-    margin: 10px 150px;
+    margin: 10px 10px 10px 150px;
     border: 1px lightgrey;
     padding-top: 50px;
     padding-right: 200px;
@@ -50,8 +50,9 @@ article {
 
 }
 
-p{
-    color: gray;
+#p{
+    color: black;
+
 }
 p2{ 
 
@@ -63,14 +64,14 @@ aside{
     font-family: Arial, Helvetica, sans-serif;
     color: gray;
     background-color: lightgray;
-    margin: 20px 20px 20px 10px;
+    margin: 10px 150px 10px 10px;
     border: 1px lightgrey;
-    padding-top: 75px;
-    padding-right: 280px;
-    padding-bottom: 150px;
-    padding-left: 150px;
-    width: 41%;
-    height: 100px;
+    padding-top: 50px;
+    padding-right: 200px;
+    padding-bottom: 100px;
+    padding-left: 200px;
+    width: 32.5%;
+    height: 254px;
       
 }
 
@@ -80,7 +81,7 @@ footer {
     font-family: Arial, Helvetica, sans-serif;
     color: gray;
     background-color: lightgray;
-    margin: 250px 150px 250px 150px;
+    margin: 10px 150px 10px 150px;
     border: 1px lightgrey;
     padding-top: 30px;
     padding-right: 30px;
