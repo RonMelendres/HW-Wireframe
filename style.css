@@ -38,23 +38,34 @@ section {
     background-color: lightgray;
     margin: 10px 10px 10px 150px;
     border: 1px lightgrey;
-    padding-top: 50px;
+    padding-top: 30px;
     padding-right: 200px;
-    padding-bottom: 100px;
+    padding-bottom: 28px;
     padding-left: 200px;
     width: 45%;
 
 }
 
 article {
+    color: lightgrey;
+    background-color:grey;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 25px -190px -20px -190px;
+    padding-top: 20px;
+    padding-right: 200px;
+    padding-bottom:50px;
+    padding-left: 200px;
 
 }
 
 #p{
     color: black;
+    background-color: blue;
+
 
 }
-p2{ 
+#p2{ 
+    background-color: green;
 
 }
  
