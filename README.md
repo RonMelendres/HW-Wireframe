@@ -2,7 +2,7 @@
 
 ## Site Picture
 
-[Site](https://ronmelendres.github.io/HW-Wireframe/)
+
 
 ## Technologies Used
     -HTML - used to create elements on the DOM
@@ -14,6 +14,8 @@
 
 This contains the Wireframe homework.
 
-## Code Script
+## Author Link
+
+[Link to page](https://ronmelendres.github.io/HW-Wireframe/)
 
 
